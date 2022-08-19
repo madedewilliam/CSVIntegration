@@ -1,2 +1,3 @@
 # WilliamAssessment
- Technical Assessment
+ - This repository is about the technical assessment.
+ 
